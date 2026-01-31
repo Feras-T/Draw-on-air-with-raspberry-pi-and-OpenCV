@@ -1,4 +1,3 @@
-# Draw-in-video-with-raspberry-pi-and-OpenCV
 # Draw on Air (Raspberry Pi + OpenCV)
 
 Draw on the screen by moving your finger in the air — using a Raspberry Pi camera feed and OpenCV.
